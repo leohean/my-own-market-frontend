@@ -4,8 +4,9 @@ import { Routes, Route } from 'react-router-dom';
 import NavBar from './styles/layouts/navBar/NavBar'
 import Footer from './styles/layouts/footer/Footer'
 
+import Home from './pages/home/Home'
 
-import Home from './pages/Home'
+import './styles/global.css'
 
 function App() {
   return (

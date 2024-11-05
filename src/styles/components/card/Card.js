@@ -1,6 +1,6 @@
 import './card.css'
 
-import noPhoto from './../../assets/images/no-photo.jpg'
+import noPhoto from './../../../assets/images/no-photo.jpg'
 export default function Card(props){
     return(
         <div>
